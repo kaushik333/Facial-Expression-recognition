@@ -1,4 +1,4 @@
-# Facial-Expression-recognition
+# Facial-Expression-recognition | MATLAB  
 Facial Expression recognition using Spatio-temporal Gabor filters
 
 The Cohn-Kanade dataset is used to test out the algorithm proposed. It is a dataset consisting of videos of facial expressions of different people
